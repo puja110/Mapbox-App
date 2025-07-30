@@ -5,7 +5,6 @@ package com.example.mapboxdemo
 import android.Manifest
 import android.os.Bundle
 import android.util.Log
-import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.Box
